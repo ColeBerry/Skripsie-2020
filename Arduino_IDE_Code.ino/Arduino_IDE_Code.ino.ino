@@ -1,3 +1,8 @@
+//Author: Cole Berry
+//Institution: Stellenbosch University
+//Descrition: This program was written to facilitate communication 
+//            between a laptop using MATLAB and an Arduino UNO microcontroller.
+
 #include <EEPROM.h> //package to access EEPROM
 //Define Vaiables
 //Motors
